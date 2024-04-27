@@ -34,6 +34,7 @@ const Banner = () => {
 
             <li className="w-10">
               <a
+              
                 href="https://www.flaticon.com/free-icons/linkedin"
                 title="github icon"
               >
