@@ -7,7 +7,7 @@ const RecentProjects = () => {
           Recent <span className="text-[#1AC0EC]">projects</span>{" "}
         </h2>
         {/* div to carry all three cards for projects */}
-        <div>
+        <div className="my-2">
           {/* first project */}
           <div className="p-8 rounded-md bg-[#1E293B]">
             <div className="md:flex gap-4 justify-start rounded-md items-center">

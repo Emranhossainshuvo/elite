@@ -53,8 +53,8 @@ const Banner = () => {
           </ul>
         </div>
         <div>
-          <img
-            src="https://i.ibb.co/9VtwWnR/IMG-20231209-080753-removebg-removebg-preview.png"
+          <img className="w-5/6"
+            src="https://i.ibb.co/3rhzz4M/IMG-20231209-080753-removebg-4-removebg-preview.png"
             alt=""
           />
         </div>
