@@ -3,7 +3,7 @@ const RecentProjects = () => {
     <>
       {/* main div that will contain everything in this page */}
       <div className="m-2">
-        <h2 className="text-3xl font-semibold ">
+        <h2 className="text-3xl font-medium ">
           <span className="text-white">Recent</span> <span className="text-[#1AC0EC]">projects</span>{" "}
         </h2>
         {/* div to carry all three cards for projects */}
@@ -18,7 +18,7 @@ const RecentProjects = () => {
               />
               <div className="md:ms-8">
                 <div className="md:flex items-center gap-3 mb-4">
-                  <h4 className="text-2xl font-semibold text-white">Revive (Team project)</h4>
+                  <h4 className="text-2xl font-medium text-white">Revive (Team project)</h4>
                   <ul className="flex gap-3 text-center">
                     <li className="bg-[#38BDF8] rounded-md w-16 font-medium text-xs text-[#12589D] p-1">React</li>
                     <li className="bg-[#34D399] rounded-md w-16 font-medium text-xs text-[#365316] p-1">Express</li>
@@ -40,7 +40,7 @@ const RecentProjects = () => {
               />
               <div className="md:ms-8">
                 <div className="md:flex items-center gap-3 mb-4">
-                  <h4 className="text-2xl font-semibold text-white">Bistro boss Restaurent</h4>
+                  <h4 className="text-2xl font-medium text-white">Bistro boss Restaurent</h4>
                   <ul className="flex gap-3 text-center">
                     <li className="bg-[#E879F9] rounded-md w-16 font-medium text-xs text-[#701A75] p-1">Firebase</li>
                     <li className="bg-[#A3E635] rounded-md w-16 font-medium text-xs text-[#365316] p-1">Node</li>
@@ -55,14 +55,16 @@ const RecentProjects = () => {
           {/* third project */}
           <div className="p-8 mt-4 rounded-md bg-[#1E293B]">
             <div className="md:flex gap-4 justify-start rounded-md items-center">
-              <img
-                className="md:w-20 mb-3 w-28 mx-auto"
-                src="https://i.ibb.co/njGVcd1/tic-tac-toe-1.png"
-                alt=""
-              />
+              <a href="https://github.com/Emranhossainshuvo/Tic-ac-Toe">
+                <img
+                  className="md:w-20 mb-3 w-28 mx-auto"
+                  src="https://i.ibb.co/njGVcd1/tic-tac-toe-1.png"
+                  alt=""
+                />
+              </a>
               <div className="md:ms-8">
                 <div className="md:flex items-center gap-3 mb-4">
-                  <h4 className="text-2xl font-semibold text-white">Tik tak toe</h4>
+                  <h4 className="text-2xl font-medium text-white">Tik tak toe</h4>
                   <ul className="flex gap-3 text-center">
                     <li className="bg-[#E879F9] rounded-md w-16 font-medium text-xs text-[#701A75] p-1">HTML</li>
                     <li className="bg-[#A3E635] rounded-md w-16 font-medium text-xs text-[#365316] p-1">CSS</li>

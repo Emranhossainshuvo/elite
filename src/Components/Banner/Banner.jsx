@@ -3,15 +3,12 @@ const Banner = () => {
     <>
       <div className="md:flex justify-between items-center">
         <div className="md:w-1/2">
-          <h3 className=" text-3xl font-semibold">
+          <h3 className=" text-3xl font-medium pb-5">
             <span className="text-white">Hello, I&apos;m Md.{" "}</span>
             <span className="text-[#1AC0EC]">Emran Hossain</span>
           </h3>
-          <p className="text-lg text-white font-semibold">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt
-            nobis quasi a suscipit eaque non, vero reiciendis harum sapiente
-            culpa aliquam illum nemo dolorum explicabo modi temporibus quis!
-            Iure, beatae.
+          <p className="text-lg text-white font-medium">
+            I&apos; m a Junior MERN stack developer. I love to create dynamic full stack web applications. I love the way I bring life in an web application.I believe in smoother experience
           </p>
           <ul className="flex gap-5 mt-10">
             <li className="w-10">
