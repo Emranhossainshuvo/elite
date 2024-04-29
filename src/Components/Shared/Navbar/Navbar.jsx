@@ -8,7 +8,7 @@ const Navbar = () => {
         <div>
             <ul className="flex items-center gap-3">
                 <li>Blogs</li>
-                <li>Github</li>
+                <li><a target="blank" href="https://github.com/Emranhossainshuvo">Github</a></li>
                 <li>Resume</li>
             </ul>
         </div>
