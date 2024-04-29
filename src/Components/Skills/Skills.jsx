@@ -2,12 +2,12 @@
 const Skills = () => {
     return (
         <>
-            <div className="mx-2">
+            <div className="mx-2 mt-5">
                 <h2 className="text-3xl font-semibold ">
                     My <span className="text-[#1AC0EC]">skills</span>{" "}
                 </h2>
                 {/* a div for contain my all skills */}
-                <div className="md:grid md:grid-cols-2 gap-x-3 ">
+                <div className="md:grid md:grid-cols-2 gap-3 mt-5 ">
                     <div>
                         <div className="flex justify-between items-center">
                             <h4>HTML</h4>

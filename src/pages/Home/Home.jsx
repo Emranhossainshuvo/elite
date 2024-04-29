@@ -1,5 +1,6 @@
 import Banner from "../../Components/Banner/Banner";
 import RecentProjects from "../../Components/RecentProjects/RecentProjects";
+import Footer from "../../Components/Shared/Footer/Footer";
 import Skills from "../../Components/Skills/Skills";
 
 const Home = () => {
@@ -8,7 +9,7 @@ const Home = () => {
             <Banner></Banner>
             <RecentProjects></RecentProjects>
             <Skills></Skills>
-            <h3>This is home page</h3>
+            <Footer></Footer>
         </div>
     );
 };
