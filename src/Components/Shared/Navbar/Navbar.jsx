@@ -5,11 +5,11 @@ const Navbar = () => {
         <div>
             <p className="text-[#0891B2]">Md. Emran Hossain</p>
         </div>
-        <div>
+        <div className="text-white">
             <ul className="flex items-center gap-3">
-                <li>Blogs</li>
+                <li><a target="blank" href="https://medium.com/@emran.shuvo.dev">Blogs</a></li>
                 <li><a target="blank" href="https://github.com/Emranhossainshuvo">Github</a></li>
-                <li>Resume</li>
+                <li className="bg-[#38BDF8] p-1 rounded-md text-white">Resume</li>
             </ul>
         </div>
       </div>
