@@ -12,8 +12,8 @@ const Banner = () => {
           </p>
           <ul className="flex gap-5 mt-10">
             <li className="w-10">
-              <a
-                href="https://www.flaticon.com/free-icons/linkedin"
+              <a target="_blank"
+                href="https://www.linkedin.com/in/md-emran-hossain-shuvo/"
                 title="linkedin icon"
               >
                 <img src="https://i.ibb.co/1qwMjsT/linkedin-1.png" alt="" />
@@ -21,8 +21,8 @@ const Banner = () => {
             </li>
 
             <li className="w-10">
-              <a
-                href="https://www.flaticon.com/free-icons/linkedin"
+              <a target="_blank"
+                href="https://twitter.com/Shuvo0031770590"
                 title="twitter icon"
               >
                 <img src="https://i.ibb.co/xLTp5Zw/twitter-2.png" alt="" />
@@ -30,9 +30,9 @@ const Banner = () => {
             </li>
 
             <li className="w-10">
-              <a
+              <a target="_blank"
 
-                href="https://www.flaticon.com/free-icons/linkedin"
+                href="https://github.com/Emranhossainshuvo"
                 title="github icon"
               >
                 <img src="https://i.ibb.co/FmxMcn6/github.png" alt="" />
@@ -40,9 +40,9 @@ const Banner = () => {
             </li>
 
             <li className="w-10">
-              <a
-                href="https://www.flaticon.com/free-icons/linkedin"
-                title="github icon"
+              <a target="_blank"
+                href="https://medium.com/@emran.shuvo.dev"
+                title="medium icon"
               >
                 <img src="https://i.ibb.co/HdwsW2t/medium.png" alt="" />
               </a>
