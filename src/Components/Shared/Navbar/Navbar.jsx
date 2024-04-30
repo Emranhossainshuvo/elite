@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="text-white">
             <ul className="flex items-center gap-3">
                 <li><a target="blank" href="https://medium.com/@emran.shuvo.dev">Blogs</a></li>
-                <li className="bg-[#38BDF8] p-1 rounded-md text-white"><a href="/public/md.Emran.Hossain.Resume.pdf" download>Resume</a></li>
+                <li className="bg-[#38BDF8] p-1 rounded-md text-white"><a href="/public/Emran.hossain.developer.pdf" download>Resume</a></li>
             </ul>
         </div>
       </div>
