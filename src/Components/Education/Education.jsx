@@ -2,7 +2,7 @@
 const Education = () => {
     return (
         <>
-            <div className="mx-2">
+            <div className="mx-auto">
 
                 <h2 className="text-3xl my-4 font-semibold ">
                     My <span className="text-[#1AC0EC]">Education</span>{" "}

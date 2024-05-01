@@ -11,7 +11,7 @@ const Home = () => {
             <Banner></Banner>
             <RecentProjects></RecentProjects>
             <Skills></Skills>
-            <div className="flex ">
+            <div className="md:flex w-full md:gap-4">
                 <Education />
                 <Achivements />
             </div>
