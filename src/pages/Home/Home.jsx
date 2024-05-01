@@ -1,3 +1,4 @@
+import Achivements from "../../Components/Achivements/Achivements";
 import Banner from "../../Components/Banner/Banner";
 import Education from "../../Components/Education/Education";
 import RecentProjects from "../../Components/RecentProjects/RecentProjects";
@@ -10,7 +11,10 @@ const Home = () => {
             <Banner></Banner>
             <RecentProjects></RecentProjects>
             <Skills></Skills>
-            <Education></Education>
+            <div className="flex ">
+                <Education />
+                <Achivements />
+            </div>
             <Footer></Footer>
         </div>
     );
