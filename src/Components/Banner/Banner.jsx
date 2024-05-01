@@ -5,7 +5,7 @@ const Banner = () => {
         <div className="md:w-1/2">
           <h3 className=" text-3xl font-medium ms-1 pb-5">
             <span className="text-white">Hello, I&apos;m Md.{" "}</span>
-            <span className="text-[#1AC0EC]">Emran Hossain</span>
+            <span className="text-black">Emran Hossain</span>
           </h3>
           <p className="text-lg text-white font-medium ms-1">
             I&apos; m a Junior MERN stack developer. I love to create dynamic full stack web applications. I love the way I bring life in an web application.I believe in smoother experience

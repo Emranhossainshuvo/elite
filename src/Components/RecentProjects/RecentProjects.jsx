@@ -4,12 +4,12 @@ const RecentProjects = () => {
       {/* main div that will contain everything in this page */}
       <div className="m-2">
         <h2 className="text-3xl font-medium ">
-          <span className="text-white">Recent</span> <span className="text-[#1AC0EC]">projects</span>{" "}
+          <span className="text-white">Recent</span> <span className="text-black">projects</span>{" "}
         </h2>
         {/* div to carry all three cards for projects */}
         <div>
           {/* first project */}
-          <div className="p-8 mt-4 rounded-md bg-[#1E293B]">
+          <div className="p-8 mt-4 rounded-md bg-black">
             <div className="md:flex gap-4 justify-start rounded-md items-center">
               <img
                 className="md:w-20 mb-3 w-28 mx-auto"
@@ -31,7 +31,7 @@ const RecentProjects = () => {
 
           </div>
           {/* second project */}
-          <div className="p-8 mt-4 rounded-md bg-[#1E293B]">
+          <div className="p-8 mt-4 rounded-md bg-black">
             <div className="md:flex gap-4 justify-start rounded-md items-center">
               <img
                 className="md:w-20 mb-3 w-28 mx-auto"
@@ -53,7 +53,7 @@ const RecentProjects = () => {
 
           </div>
           {/* third project */}
-          <div className="p-8 mt-4 rounded-md bg-[#1E293B]">
+          <div className="p-8 mt-4 rounded-md bg-black">
             <div className="md:flex gap-4 justify-start rounded-md items-center">
               <a href="https://github.com/Emranhossainshuvo/Tic-ac-Toe">
                 <img
