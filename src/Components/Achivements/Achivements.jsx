@@ -18,13 +18,7 @@ const Achivements = () => {
                     <p className="text-[#38BDF8]">Mars 2024</p>
                     <h3 className="text-xl text-white font-medium">Recommendation Letter</h3>
                     <p className="font-extralight">Programming Hero</p>
-                    <p className="text-base text-white">Currently pursuing a Bachelor of Science degree at Government Titumir College Dhaka.</p>
-                </div>
-                <div className="bg-[#1E293B] ps-4 rounded-md py-3">
-                    <p className="text-[#38BDF8]">2020 - 2022</p>
-                    <h3 className="text-xl text-white font-medium">Higher Secondary Certificate</h3>
-                    <p className="font-extralight">Hajiganj Model Govt. College</p>
-                    <p className="text-base text-white">I completed my HSC at department of Humanities with CGPA of 4.94 out of 5</p>
+                    <p className="text-base text-white">I was part fo two month long Programming-Hero endgame programm It&apos;s like a shadow internship. Here&apos;s the <a className="text-[#38BDF8]" href="/public/Md. Emran Hossain.pdf" download>Recommendation Letter</a> </p>
                 </div>
             </div>
         </>
