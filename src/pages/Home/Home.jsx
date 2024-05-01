@@ -1,6 +1,5 @@
-import Achivements from "../../Components/Achivements/Achivements";
 import Banner from "../../Components/Banner/Banner";
-import Education from "../../Components/Education/Education";
+import EducationAndAchivements from "../../Components/EducationAndAchivements/EducationAndAchivements";
 import RecentProjects from "../../Components/RecentProjects/RecentProjects";
 import Footer from "../../Components/Shared/Footer/Footer";
 import Skills from "../../Components/Skills/Skills";
@@ -11,10 +10,7 @@ const Home = () => {
             <Banner></Banner>
             <RecentProjects></RecentProjects>
             <Skills></Skills>
-            <div className="md:flex w-full md:gap-4">
-                <Education />
-                <Achivements />
-            </div>
+            <EducationAndAchivements></EducationAndAchivements>
             <Footer></Footer>
         </div>
     );
