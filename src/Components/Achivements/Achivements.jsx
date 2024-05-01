@@ -9,15 +9,15 @@ const Achivements = () => {
                 </h2>
 
                 <div className="bg-[#1E293B] mb-2 ps-4 rounded-md py-3">
-                    <p className="text-[#38BDF8]">2023 - 2024</p>
-                    <h3 className="text-xl text-white font-medium">Web development</h3>
+                    <p className="text-[#38BDF8]">December 2023</p>
+                    <h3 className="text-xl text-white font-medium">Web development Certificate</h3>
                     <p className="font-extralight">Programmine Hero</p>
-                    <p className="text-base text-white">I did a  online professional course for around 8 month with Programming hero</p>
+                    <p className="text-base text-white">I&apos;ve got certificate for completig my web development professional course with programming hero. Here&apos;s the <span className="text-[#38BDF8] "><a href="/public/certificate.pdf" download>Certificate</a></span></p>
                 </div>
                 <div className="bg-[#1E293B] mb-2 ps-4 rounded-md py-3">
-                    <p className="text-[#38BDF8]">2024 - Running</p>
-                    <h3 className="text-xl text-white font-medium">Bs.c Geography</h3>
-                    <p className="font-extralight">Government Titumir College</p>
+                    <p className="text-[#38BDF8]">Mars 2024</p>
+                    <h3 className="text-xl text-white font-medium">Recommendation Letter</h3>
+                    <p className="font-extralight">Programming Hero</p>
                     <p className="text-base text-white">Currently pursuing a Bachelor of Science degree at Government Titumir College Dhaka.</p>
                 </div>
                 <div className="bg-[#1E293B] ps-4 rounded-md py-3">
