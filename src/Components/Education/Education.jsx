@@ -2,25 +2,25 @@
 const Education = () => {
     return (
         <>
-            <div className="mx-auto">
+            <div>
 
                 <h2 className="text-3xl my-4 font-semibold ">
                     My <span className="text-[#1AC0EC]">Education</span>{" "}
                 </h2>
 
-                <div className="bg-[#1E293B] mb-2 ps-4 rounded-md py-3">
+                <div className="bg-[#1E293B] mb-2 ps-4 pe-1 rounded-md py-3">
                     <p className="text-[#38BDF8]">2023 - 2024</p>
                     <h3 className="text-xl text-white font-medium">Web development</h3>
                     <p className="font-extralight"><a target="_blank" href="https://web.programming-hero.com/">Programmine Hero</a></p>
                     <p className="text-base text-white">I did a  online professional course for around 8 month with Programming hero</p>
                 </div>
-                <div className="bg-[#1E293B] mb-2 ps-4 rounded-md py-3">
+                <div className="bg-[#1E293B] mb-2 ps-4 pe-1 rounded-md py-3">
                     <p className="text-[#38BDF8]">2024 - Running</p>
                     <h3 className="text-xl text-white font-medium">Bs.c Geography</h3>
                     <p className="font-extralight"><a href="https://titumircollege.gov.bd/">Government Titumir College</a></p>
                     <p className="text-base text-white">Currently pursuing a Bachelor of Science degree at Government Titumir College Dhaka.</p>
                 </div>
-                <div className="bg-[#1E293B] ps-4 rounded-md py-3">
+                <div className="bg-[#1E293B] ps-4 pe-1 rounded-md py-3">
                     <p className="text-[#38BDF8]">2020 - 2022</p>
                     <h3 className="text-xl text-white font-medium">Higher Secondary Certificate</h3>
                     <p className="font-extralight"><a href="https://hmgovcollege.com/">Hajiganj Model Govt. College</a></p>
