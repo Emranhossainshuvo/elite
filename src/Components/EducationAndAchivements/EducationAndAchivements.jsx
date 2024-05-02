@@ -18,10 +18,10 @@ const EducationAndAchivements = () => {
                         <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
                             <li>
                                 <div className="timeline-middle">
-                                    <RiTimeLine className="text-2xl text-sky-100 animate-spin" />
+                                    <RiTimeLine className="text-2xl text-custom-text animate-spin" />
                                 </div>
                                 <div className="timeline-start  hover:shadow-2xl duration-300 transition hover:scale-95 px-2 py-3 space-y-2 md:text-end mb-9">
-                                    <div className="text-2xl font-bold text-[#e5c466] ">
+                                    <div className="text-2xl font-bold text-custom-sp ">
                                         Web development 
                                     </div>
                                     <p className="font-semibold max-w-sm text-sky-200">
@@ -33,10 +33,10 @@ const EducationAndAchivements = () => {
                             <li>
                                 <hr />
                                 <div className="timeline-middle">
-                                    <RiTimeLine className="text-2xl text-sky-100 animate-spin" />
+                                    <RiTimeLine className="text-2xl text-custom-text animate-spin" />
                                 </div>
                                 <div className="timeline-end hover:shadow-2xl duration-300 transition hover:scale-95 mb-9 px-2 py-3 space-y-2">
-                                    <div className="text-2xl font-semibold text-[#e5c466]">
+                                    <div className="text-2xl font-semibold text-custom-sp">
                                         B.Sc Geography and Environment
                                     </div>
                                     <p className="font-semibold max-w-sm text-sky-200">
@@ -49,10 +49,10 @@ const EducationAndAchivements = () => {
                             <li>
                                 <hr />
                                 <div className="timeline-middle">
-                                    <RiTimeLine className="text-2xl text-sky-100 animate-spin" />
+                                    <RiTimeLine className="text-2xl text-custom-text animate-spin" />
                                 </div>
                                 <div className="timeline-start hover:shadow-2xl duration-300 transition hover:scale-95 mb-9 px-2 py-3 space-y-2 md:text-end">
-                                    <div className="text-2xl font-semibold text-[#e5c466]">
+                                    <div className="text-2xl font-semibold text-custom-sp">
                                     Web development Certificate
                                     </div>
                                     <p className="font-semibold max-w-sm text-sky-200">
@@ -65,10 +65,10 @@ const EducationAndAchivements = () => {
                             <li>
                                 <hr />
                                 <div className="timeline-middle">
-                                    <RiTimeLine className="text-2xl text-sky-100 animate-spin" />
+                                    <RiTimeLine className="text-2xl text-custom-text animate-spin" />
                                 </div>
                                 <div className="timeline-end hover:shadow-2xl duration-300 transition hover:scale-95 mb-9 px-2 py-3 space-y-2">
-                                    <div className="text-2xl font-semibold text-[#e5c466]">
+                                    <div className="text-2xl font-semibold text-custom-sp">
                                     Higher Secondary Certificate
                                     </div>
                                     <p className="font-semibold max-w-sm text-sky-200">
@@ -81,10 +81,10 @@ const EducationAndAchivements = () => {
                             <li>
                                 <hr />
                                 <div className="timeline-middle">
-                                    <RiTimeLine className="text-2xl text-sky-100 animate-spin" />
+                                    <RiTimeLine className="text-2xl text-custom-text animate-spin" />
                                 </div>
                                 <div className="timeline-start hover:shadow-2xl duration-300 transition hover:scale-95 py-3 px-3 md:text-end">
-                                    <div className="text-2xl font-semibold text-[#e5c466]">
+                                    <div className="text-2xl font-semibold text-custom-sp">
                                     Recommendation Letter
                                     </div>
                                     <p className="font-semibold text-sky-200">
