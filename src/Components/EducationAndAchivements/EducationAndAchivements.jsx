@@ -7,7 +7,7 @@ const EducationAndAchivements = () => {
         <>
 
             <h2 className="text-3xl my-5 font-medium ">
-                <span className="text-white"></span> <span className="text-black">Education <span className="text-white">and</span> Achivements</span>{" "}
+                <span className="text-custom-text"></span> <span className="text-black">Education <span className="text-custom-text">and</span> Achivements</span>{" "}
             </h2>
 
             <div>

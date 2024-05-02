@@ -2,7 +2,7 @@
 const Skills = () => {
     return (
         <>
-            <div className="mx-2 mt-5 text-white">
+            <div className="mx-2 mt-5 text-custom-text">
                 <h2 className="text-3xl font-semibold ">
                     My <span className="text-black">skills</span>{" "}
                 </h2>

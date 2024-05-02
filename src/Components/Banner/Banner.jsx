@@ -4,10 +4,10 @@ const Banner = () => {
       <div className="md:flex justify-between items-center">
         <div className="md:w-1/2">
           <h3 className=" text-3xl font-medium ms-1 pb-5">
-            <span className="text-white">Hello, I&apos;m Md.{" "}</span>
-            <span className="text-black">Emran Hossain</span>
+            <span className="text-custom-text">Hello, I&apos;m Md.{" "}</span>
+            <span className="text-custom-sp">Emran Hossain</span>
           </h3>
-          <p className="text-lg text-white font-medium ms-1">
+          <p className="text-lg text-custom-text font-medium ms-1">
             I&apos; m a Junior MERN stack developer. I love to create dynamic full stack web applications. I love the way I bring life in an web application.I believe in smoother experience
           </p>
           <ul className="flex md:w-2/4 w-4/6 md:my-10 md:mx-1 mx-auto  gap-5 mt-10">

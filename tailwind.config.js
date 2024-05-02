@@ -7,9 +7,10 @@ export default {
   theme: {
     extend: {},
     colors: {
-      'custom-bg': '#F4E3D7',
-      'custom-text': '#4A3933',
-      'custom-sp': '#7E9363',
+      'custom-bg': '#483D8B',
+      'custom-text': '#D3D3D3',
+      'custom-sp': '#FF4040',
+      'custom-crd': '#191970'
     },
   },
   plugins: [require("daisyui")],
