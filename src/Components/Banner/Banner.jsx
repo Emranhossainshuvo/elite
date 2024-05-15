@@ -50,7 +50,7 @@ const Banner = () => {
           </ul>
         </div>
         <div>
-          <img className="w-5/6 mx-auto"
+          <img className="w-5/6 mt-6 mx-auto"
             src="https://i.ibb.co/3rhzz4M/IMG-20231209-080753-removebg-4-removebg-preview.png"
             alt=""
           />
